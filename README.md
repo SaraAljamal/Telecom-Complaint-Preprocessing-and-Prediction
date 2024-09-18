@@ -2,9 +2,11 @@
 A machine learning project using real telecommunication data to classify customer complaints into two categories: internet or phone. The project focuses on data preprocessing and model building to predict the type of product based on complaint details.
 
 _**Problem Statement**_
+
 Telecommunication companies deal with thousands of customer complaints daily. Efficiently categorizing these complaints can help companies route them to the appropriate department for faster resolution. The objective is to predict whether the complaint is related to the “internet” or “phone” product.
 
 _**Dataset**_
+
 The dataset includes 10415 real customer complaint records with 26 features from a telecommunication company
  
 _**Project Workflow**_
@@ -28,9 +30,9 @@ _**How to Use**_
 1.	Telecom Complaint Preprocessing and Prediction.ipynb Notebook:
 o The Colab notebook contains the entire workflow from data preprocessing to model building and evaluation.
 o	To run it, open the notebook in Google Colab:
-	Click on the notebook file (Telecom_Complaint_Classifier.ipynb).
-	Choose "Open in Colab" from the GitHub file preview.
-	You can run the cells sequentially to see the steps and results.
+- Click on the notebook file (Telecom_Complaint_Classifier.ipynb).
+- Choose "Open in Colab" from the GitHub file preview.
+- You can run the cells sequentially to see the steps and results.
 
 2.	Telecom Complaint Project Report:
 o	The report (Telecom Complaint Project Report.docx) provides a detailed explanation of the problem, methodology, and results.
